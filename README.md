@@ -1,1 +1,1 @@
-Vediamo
+Welcome to MyNN, a project where I've built a neural network entirely from scratch, starting from a single neuron to a fully functional multi-layer perceptron (MLP). This project places a particular emphasis on understanding and implementing the backpropagation algorithm. The code and concepts here are inspired by the teachings of Andrej Karpathy, whose educational videos guided the development process.
